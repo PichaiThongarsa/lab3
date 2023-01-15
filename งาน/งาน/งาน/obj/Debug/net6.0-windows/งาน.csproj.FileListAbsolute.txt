@@ -1,0 +1,17 @@
+C:\Users\poste\Desktop\งาน\งาน\งาน\bin\Debug\net6.0-windows\งาน.exe
+C:\Users\poste\Desktop\งาน\งาน\งาน\bin\Debug\net6.0-windows\งาน.deps.json
+C:\Users\poste\Desktop\งาน\งาน\งาน\bin\Debug\net6.0-windows\งาน.runtimeconfig.json
+C:\Users\poste\Desktop\งาน\งาน\งาน\bin\Debug\net6.0-windows\งาน.dll
+C:\Users\poste\Desktop\งาน\งาน\งาน\bin\Debug\net6.0-windows\งาน.pdb
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.csproj.AssemblyReference.cache
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.Form1.resources
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.csproj.GenerateResource.cache
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.AssemblyInfoInputs.cache
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.AssemblyInfo.cs
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.csproj.CoreCompileInputs.cache
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.dll
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\refint\งาน.dll
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.pdb
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\งาน.genruntimeconfig.cache
+C:\Users\poste\Desktop\งาน\งาน\งาน\obj\Debug\net6.0-windows\ref\งาน.dll
